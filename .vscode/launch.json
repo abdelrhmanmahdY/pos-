@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "history_of_order_gui",
+            "request": "launch",
+            "mainClass": "history_of_order_gui",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "type": "java",
+            "name": "emplyee",
+            "request": "launch",
+            "mainClass": "emplyee",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "type": "java",
+            "name": "category",
+            "request": "launch",
+            "mainClass": "category",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "type": "java",
+            "name": "OrderGUI",
+            "request": "launch",
+            "mainClass": "OrderGUI",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "type": "java",
+            "name": "item",
+            "request": "launch",
+            "mainClass": "item",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "pos_71bc114c"
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
